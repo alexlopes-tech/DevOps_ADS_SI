@@ -1,2 +1,2 @@
 # DevOps_ADS_SI
-texto com conflito
+texto sem conflito
